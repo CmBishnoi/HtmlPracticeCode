@@ -1,0 +1,122 @@
+.box1{
+    background-color: green;
+    height: 640px;
+    width: 640px;
+    border: 2px solid black;
+    
+}
+.box2{
+    background-color: rgb(255, 255, 0);
+    height: 640px;
+    width: 640px;
+    border: 2px solid black;
+
+}
+.box3{
+    
+    background-color: red;
+    height: 640px;
+    width: 640px;
+    border: 2px solid black;
+    position: static;
+}
+.box4{
+    background-color: orange;
+    height: 640px;
+    width: 640px;
+    border: 2px solid black;
+    position:static;
+}
+.box{
+    background-color: creame;
+    border: 2px solid black;
+    height: 150px;
+    width: 100px;
+    position: static;
+}
+.inside_box{
+    margin: 100px;
+    background-color: white;
+    height: 440px;
+    width: 440px;
+    position: static;
+}
+.center_box{
+    display: inline-block;
+    margin:55px ;
+    height: 100px;
+    width: 100px;
+    position: static;
+}
+.small_box{
+    background-color: white;
+    height: 150px;
+    width: 102px;
+    border: 2px solid black;
+    display: inline-block;
+    position: static;
+}
+.small_box1{
+    display: block;   
+    position: static;
+}
+.usmall_box{
+    background-color: white;
+    height: 100px;
+    width: 151px;
+    border: 2px solid black;
+    display: inline-block; 
+    position: static;
+}
+.usmall_box1{
+    display: inline-block;
+}
+.main_box{
+    background-color: white;
+    border: 2px solid black;
+    height: 1760px;
+    width: 1760px;
+    position: static;
+}
+.centerbox_main{
+    background-color: white;
+     border: 2px solid black;
+   height: 0px;
+   width: 0px;
+    top: 655px;
+    left: 655px;
+    border-left: 235px solid green;
+    border-right: 235px solid orange;
+    border-top: 235px solid red;
+    border-bottom: 235px solid yellow;
+    position: absolute;
+    
+}
+
+
+
+td{
+    
+    background-color: white;
+    height: 150px;
+    width: 100px;
+    border: 1px solid black;
+   
+}
+.table2{
+      position: absolute;
+      left: 1126px;
+      top: 655px;
+}
+.table3{
+    position: absolute;
+    top: 95px ;
+    rotate: 90deg;
+    left: 567px;
+}
+.table4{
+    position: absolute;
+    top: 1214px ;
+    rotate: 270deg;
+    left: 567px;
+}

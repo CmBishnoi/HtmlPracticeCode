@@ -1,0 +1,21 @@
+
+
+.white_box{
+    background-color: white;
+    color: black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    font-size: 80px;
+    border: 1;
+}
+.black_box{
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+    font-size: 80px;
+}
